@@ -7,3 +7,4 @@ if __name__ == '__main__':
     perceptron=Perceptron(3,0.1,batch_X,batch_Y)
     perceptron.train(50)
     print(perceptron.forward(X))
+
