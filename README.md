@@ -1,1 +1,1 @@
-# Machine_learning_algorithms_from_scratch
+# Implementation of Statistical learning methods
