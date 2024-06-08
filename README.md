@@ -1,1 +1,1 @@
-# Implementation of Statistical learning methods
+# Statistical learning methods
